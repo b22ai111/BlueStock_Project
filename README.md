@@ -1,1 +1,1 @@
-This project and these react codes are about deevloping web pages.This contains codes for 4 web pages those are Products, ContactUs, Community, AboutUs pages of the website that we are developing and each contains its related App.jsx code file also. 
+This project is about building IPO web app & REST API using React codes about devloping web pages.This contains codes for 4 web pages those are Products, ContactUs, Community, AboutUs pages of the website that we are developing and each contains its related App.jsx code file also. 
